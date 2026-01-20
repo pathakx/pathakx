@@ -55,7 +55,8 @@ Upload an Excel file of sales data and get complete sales analysis & insights.
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pathakx&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pathakx&layout=compact&theme=tokyonight)
-![Achievements](https://github.com/pathakx?tab=achievements)
+[![GitHub Achievements](https://img.shields.io/badge/GitHub-Achievements-blue?style=for-the-badge&logo=github)](https://github.com/pathakx?tab=achievements)
+
 
 ---
 
