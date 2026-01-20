@@ -28,6 +28,14 @@
 A deep learning project to classify human facial emotions using CNN.
 🔗 Repo: https://github.com/pathakx/EmotionAI
 
+### 🧑‍⚕️ Physician Notetaker — Medical Transcription NLP Pipeline
+End-to-end pipeline for transcription, summarization, sentiment analysis & SOAP note generation.
+🔗 Repo: https://github.com/pathakx/Physician-Notetaker
+
+### 📩 Lead Automation System — AI Lead Management
+AI-powered lead categorization + automated workflows + follow-up scheduling for sales teams.
+🔗 Repo: https://github.com/pathakx/Lead_Automation
+
 ### 🩺 Medical Chatbot — RAG-Based Medical Assistant
 Medical Q&A chatbot using Retrieval-Augmented Generation with document embeddings.
 🔗 Repo: https://github.com/pathakx/medical-chatbot
@@ -40,13 +48,7 @@ Agent that reads HTML/requirements files, creates embeddings, generates test cas
 Upload an Excel file of sales data and get complete sales analysis & insights.
 🔗 Repo: https://github.com/pathakx/ecommerce-analysis-app
 
-### 🧑‍⚕️ Physician Notetaker — Medical Transcription NLP Pipeline
-End-to-end pipeline for transcription, summarization, sentiment analysis & SOAP note generation.
-🔗 Repo: https://github.com/pathakx/Physician-Notetaker
 
-### 📩 Lead Automation System — AI Lead Management
-AI-powered lead categorization + automated workflows + follow-up scheduling for sales teams.
-🔗 Repo: https://github.com/pathakx/Lead_Automation
 
 ---
 
