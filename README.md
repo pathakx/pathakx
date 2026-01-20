@@ -1,4 +1,4 @@
-# Hi 👋 I'm pathakX
+# Hi 👋 I'm Vikas Pathak
 
 🚀 AI/ML Developer | Python | NLP | RAG Systems | Automation  
 💡 Building real-world AI projects in **Healthcare**, **Automation**, and **Data Analytics**
