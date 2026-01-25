@@ -62,7 +62,7 @@ Upload an Excel file of sales data and get complete sales analysis & insights.
 
 ## 🤝 Connect with Me
 📩 Email: vikaspathak0911@gmail.com
-💼 LinkedIn: [your-link-here ](https://www.linkedin.com/in/pathakx/) 
+💼 LinkedIn: [your-link-here ](https://www.linkedin.com/in/vikaspathak11/) 
 🌐 Portfolio: https://github.com/pathakx
 
 ---
