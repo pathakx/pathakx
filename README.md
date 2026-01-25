@@ -9,7 +9,7 @@
 - 🔭 Working on **AI Agents, RAG Chatbots, and Automation Systems**
 - 🧠 Interested in **LLMs, and End-to-End AI products**
 - ✅ Passionate about building practical solutions, not just notebooks
-- 📌 Focus Areas: **GenAI | RAG | ML **
+- 📌 Focus Areas: **GenAI | RAG | ML**
 
 ---
 
