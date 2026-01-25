@@ -7,17 +7,17 @@
 
 ## 🧑‍💻 About Me
 - 🔭 Working on **AI Agents, RAG Chatbots, and Automation Systems**
-- 🧠 Interested in **NLP, LLMs, Computer Vision, and End-to-End AI products**
+- 🧠 Interested in **LLMs, and End-to-End AI products**
 - ✅ Passionate about building practical solutions, not just notebooks
-- 📌 Focus Areas: **GenAI | RAG | ML | Data Analytics | Selenium Automation**
+- 📌 Focus Areas: **GenAI | RAG | ML **
 
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** Python, JavaScript, TypeScript, Java  
-**AI/ML:** CNN, NLP, RAG, Embeddings, Vector Databases  
+**Languages:** Python, JavaScript, Java  
+**AI/ML:** CNN, RAG, Vector Databases  
 **Data:** Pandas, NumPy, Matplotlib, Seaborn  
-**Automation:** Selenium, Web Scraping, Workflow Automation  
+**Automation:** Workflow Automation  
 **Tools:** Git, GitHub, Jupyter Notebook
 
 ---
